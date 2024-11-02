@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  functions.cpp
+  Generating Code...
+C:\Users\rireh\source\repos\MS549_Mod_1.1\functions.cpp(26,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MS549_Mod_1.1.vcxproj -> C:\Users\rireh\source\repos\MS549_Mod_1.1\x64\Debug\MS549_Mod_1.1.exe
